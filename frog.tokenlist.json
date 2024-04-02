@@ -1,0 +1,42 @@
+{
+  "name": "Frog Tokens",
+  "logoURI": "https://github.com/Yieldfarming24/images/blob/main/frog.png",
+  "keywords": [
+    "degen",
+    "defi",
+    "ethereum",
+    "bridge"
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 666666666,
+      "address": "0x5eb9f3d24fe25c582fcec2a32aeb774ea8d47ae8",
+      "decimals": 18,
+      "name": "FrogSwap token",
+      "symbol": "FROG",
+      "logoURI": "https://github.com/Yieldfarming24/images/blob/c87ec0e984a9f7eb1c3067741b4c681561192bca/frog.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "decimals": 18,
+      "name": "Wrapped DEGEN",
+      "symbol": "WDEGEN",
+      "logoURI": "https://github.com/Yieldfarming24/images/blob/c87ec0e984a9f7eb1c3067741b4c681561192bca/DEGEN.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa1144a6A1304bd9cbb16c800F7a867508726566E",
+      "decimals": 18,
+      "name": "Degenswap token",
+      "symbol": "DSWAP",
+      "logoURI": "https://github.com/Yieldfarming24/images/blob/c87ec0e984a9f7eb1c3067741b4c681561192bca/dswap.png"
+    }
+  ],
+  "timestamp": "2022-02-05T12:00:00+00:00"
+}
