@@ -1,6 +1,6 @@
 {
   "name": "Frog Tokens",
-  "logoURI": "https://github.com/Yieldfarming24/images/blob/main/frog.png",
+  "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/frog.png",
   "keywords": [
     "degen",
     "defi",
@@ -19,7 +19,7 @@
       "decimals": 18,
       "name": "FrogSwap token",
       "symbol": "FROG",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/c87ec0e984a9f7eb1c3067741b4c681561192bca/frog.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/frog.png"
     },
     {
       "chainId": 666666666,
