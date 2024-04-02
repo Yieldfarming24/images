@@ -15,7 +15,7 @@
   "tokens": [
     {
       "chainId": 666666666,
-      "address": "0x5eb9f3d24fe25c582fcec2a32aeb774ea8d47ae8",
+      "address": "0x7D4F462895AD2A6856cb6e94055B841C3cA55987",
       "decimals": 18,
       "name": "FrogSwap token",
       "symbol": "FROG",
@@ -23,7 +23,7 @@
     },
     {
       "chainId": 666666666,
-      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
       "decimals": 18,
       "name": "Wrapped DEGEN",
       "symbol": "WDEGEN",
@@ -31,7 +31,7 @@
     },
     {
       "chainId": 43114,
-      "address": "0xa1144a6A1304bd9cbb16c800F7a867508726566E",
+      "address": "0x0c3544B0b78a0eeA3Bb4ca3774b72055a66e4ee5",
       "decimals": 18,
       "name": "Degenswap token",
       "symbol": "DSWAP",
