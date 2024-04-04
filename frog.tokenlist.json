@@ -30,13 +30,17 @@
       "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/DEGEN.png"
     },
     {
-      "chainId": 43114,
-      "address": "0x0c3544B0b78a0eeA3Bb4ca3774b72055a66e4ee5",
+      "chainId": 666666666,
+      "address": "0xc0F388ab3A44b888Ee6a9b7727AF626255304278",
       "decimals": 18,
-      "name": "Degenswap token",
-      "symbol": "DSWAP",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/dswap.png"
+      "name": "Frogwifhat",
+      "symbol": "FWIF",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/fwif.png"
     }
+
+
+
+    
   ],
   "timestamp": "2022-02-05T12:00:00+00:00"
 }
