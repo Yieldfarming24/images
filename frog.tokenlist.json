@@ -36,6 +36,14 @@
       "name": "FROGWIFHAT",
       "symbol": "FWIF",
       "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/fwif.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0xdE7c6476b92d5B4e7f3cA610A97724523FbAfA89",
+      "decimals": 18,
+      "name": "Just an average degen",
+      "symbol": "JAAD",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/jaad.png"
     }
 
 
