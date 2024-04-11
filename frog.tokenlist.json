@@ -44,6 +44,14 @@
       "name": "Just an average degen",
       "symbol": "JAAD",
       "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/jaad.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0xd57DA9DD18207599bC37158eb497A0237C10281B",
+      "decimals": 18,
+      "name": "Wake",
+      "symbol": "WAKE",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/wake.png"
     }
 
 
