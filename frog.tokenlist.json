@@ -60,11 +60,31 @@
       "name": "Degen pepe",
       "symbol": "PEPE",
       "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/pepe.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0x713D4B845AeaAf14DecF9f8014f41f6EcfA76A2D",
+      "decimals": 18,
+      "name": "Degen pepe",
+      "symbol": "PEPE",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/pepe.png"
     }
-
-
-
-    
+    {
+      "chainId": 666666666,
+      "address": "0xfC6601a0Fcaf2252332eE2b0Ea213bbB5F977117",
+      "decimals": 18,
+      "name": "Frog Wif Helmet",
+      "symbol": "HELMET",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/helmet.png"
+    }
+    {
+      "chainId": 666666666,
+      "address": "0xca319f4A4f28EB59AcE61E2D2d64ee2A7eaF65B3",
+      "decimals": 18,
+      "name": "GOAT",
+      "symbol": "GOAT",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/images/main/goat.png"
+    }    
   ],
   "timestamp": "2022-02-05T12:00:00+00:00"
 }
